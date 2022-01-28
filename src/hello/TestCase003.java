@@ -1,5 +1,5 @@
 package hello;
 
 public class TestCase003 {
-    //IDK what's going on here!
+    //my study plan is  a chapter everyday
 }
